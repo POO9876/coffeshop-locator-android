@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeShopLocator</string>
+    <string name="find_coffee_shop">Find coffee shop</string>
+    <string name="where_will_you_be_drinking_your_ncoffee_today">Where will you be drinking your\ncoffee today?</string>
+</resources>
